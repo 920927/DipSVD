@@ -3,10 +3,10 @@
   
 **[DipSVD: Dual-importance Protected SVD for Efficient LLM Compression](https://arxiv.org/pdf/2506.20353)** [[arXiv]](https://arxiv.org/pdf/2506.20353)   
 
-### Abstract
+![This image is not available for now.](assets/framework.png)
+
 This paper proposes a dual-level importance protection mechanism to enhance SVD-based compression methods: (1) local importance protection: preserving the most critical singular vectors within each weight matrix through channel-weighted data whitening; and (2) global importance protection: enabling less important layers to bear a greater portion of the compression burden through either a heuristic or optimization-based approach, thereby minimizing the impact of compression on critical layers. 
 
-![This image is not available for now.](assets/framework.png)
 
 
 
